@@ -60,7 +60,7 @@
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
-    "react-native": "^0.57.8",
+    "react-native": "^0.60.0",
     "react-native-testing-library": "^1.5.0",
     "react-test-renderer": "^16.6.3",
     "redux": "^4.0.1",
@@ -69,6 +69,7 @@
     "redux-thunk": "^2.3.0"
   },
   "dependencies": {
+    "@react-native-community/netinfo": "^4.1.1",
     "lodash": "^4.17.11",
     "react-redux": "^6.0.0 || ^7.0.0",
     "redux": "4.x",
